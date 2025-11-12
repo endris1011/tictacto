@@ -1,9 +1,9 @@
 This repository is a fork of our joint submission at the **Munich AI Hackathon 2025**.
 
-- [@EndrisBuzhala](https://github.com/EndrisBuzhala)
-- [@ielminawi](https://github.com/) 
-- [@selhadidi](https://github.com/selhadidi)
-- [@Minawi2002](https://github.com/Minawi2002)
+- [@Endris Buzhala](https://github.com/endris1011)
+- [@Mahmoud El Minawi](https://github.com/Minawi2002)
+- [@Ismail El Minawi](https://github.com/) 
+- [@Seif El Hadidi](https://github.com/selhadidi)
 
 # galactacto
 
